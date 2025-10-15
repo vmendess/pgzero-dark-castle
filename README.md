@@ -1,6 +1,6 @@
 # Dark Castle
 
-Pequeno jogo de plataforma em Pygame Zero com combate, coleta e vitória por eliminação de inimigos, focado em execução simples para avaliação técnica rigorosa.
+Pequeno jogo de plataforma em Pygame Zero com combate, coleta e vitória por eliminação de inimigos.
 
 ## Demo
 ![Gameplay](docs/gameplay.gif)
