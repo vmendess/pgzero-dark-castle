@@ -15,7 +15,6 @@ pip install pgzero
 ~~~
 
 ## Execução
-- Forma recomendada (runtime do Pygame Zero, expõe `screen`, `keyboard`, `music`, `sounds`):
 ~~~bash
 pgzrun main.py
 ~~~
