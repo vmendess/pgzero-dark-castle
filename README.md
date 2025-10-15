@@ -18,7 +18,6 @@ pip install pgzero
 ~~~bash
 pgzrun main.py
 ~~~
-- Estrutura esperada: mantenha `images/`, `sounds/` e `music/` ao lado do arquivo de entrada para que o carregamento automático funcione.
 
 ## Controles
 - Movimento: WASD
