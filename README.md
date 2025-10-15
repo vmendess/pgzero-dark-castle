@@ -34,7 +34,7 @@ images/   # sprites e UI
 sounds/   # efeitos (.wav)
 music/    # trilhas (.mp3)
 docs/     # GIFs/screenshots usados no README
-main.py   # arquivo principal de execução na IDE
+main.py   # código fonte principal
 main.pyi  # pode ignorar
 ~~~
 
