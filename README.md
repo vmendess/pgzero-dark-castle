@@ -6,8 +6,8 @@ Pequeno jogo de plataforma em Pygame Zero com combate, coleta e vitória por eli
 ![Gameplay](docs/gameplay.gif)
 
 ## Requisitos
-- Python 3.x
-- Pygame Zero (pgzero)
+- Python 3
+- Biblioteca Pygame Zero (pgzero)
 
 ## Instalação
 ~~~bash
