@@ -1,10 +1,5 @@
 # DARK CASTLE - Jogo de Plataforma
 
-# Nota de manutenção: Apenas comentários adicionais foram inseridos; nenhuma linha de lógica foi alterada.
-# O objetivo é explicar termos técnicos, decisões de design e a razão por trás de funções e estados,
-# mantendo o estilo de comentários já usado neste arquivo.
-
-
 # ESTRUTURA DE PASTAS NECESSÁRIA:
 # /sounds/         - Efeitos sonoros (.wav).
 # /music/          - Músicas de fundo (.mp3).
